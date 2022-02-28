@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority of the nation the Commons of England, assembled in Parliament. The humble petition of divers well-affected persons in the cities of London and Westminster, the borough of Southwark, hamblets, and parts adjacent. In behalf of Lieut. Coll. John Lilburn, M. William Walwin, M. Thomas Prince, and M. Richard Overton, now prisoners in the Tower.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94693</idno>
+            <idno type="STC">Wing T1730</idno>
+            <idno type="STC">Thomason 669.f.14[20]</idno>
+            <idno type="STC">ESTC R211104</idno>
+            <idno type="EEBO-CITATION">99869842</idno>
+            <idno type="PROQUEST">99869842</idno>
+            <idno type="VID">163008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority of the nation the Commons of England, assembled in Parliament. The humble petition of divers well-affected persons in the cities of London and Westminster, the borough of Southwark, hamblets, and parts adjacent. In behalf of Lieut. Coll. John Lilburn, M. William Walwin, M. Thomas Prince, and M. Richard Overton, now prisoners in the Tower.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 17 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Walwyn, William, 1600-1681.</term>
+               <term>Prince, Thomas.</term>
+               <term>Overton, Thomas, fl. 1646.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163008:1"/>
+            <head>TO THE
+SVPREME AVTHORITY
+OF THE
+NATION
+The COMMONS of ENGLAND, Aſſembled in Parliament.</head>
+            <head type="sub">The Humble Petition of divers well-affected Perſons of the Cities of London and Weſtminſter, the Borough of Southwark, Hamblets, and Parts Adjacent.
+In the behalf of Lieut. Coll. John Lilburn, M. William Walwin, M. Thomas Prince, and M. Richard Overton, now Priſoners in the Tower.</head>
+            <opener>Sheweth;</opener>
+            <p>THat the more we conſider the ſtate and condition of our ſaid Friends, the more we are perplexed in our thoughts with fear of great danger intended towards them: For, though no<g ref="char:EOLhyphen"/>thing
+hath bin pretended to be done by them contrary to any Law made before the fact whereof they are ſuſpected, nor any thing done by them after you had publiſhed your Decla<g ref="char:EOLhyphen"/>ration
+concerning the ſame; yet your Votes and Declarations, the hoſtile ſeizure of them by the Councel of State, and their Examinations apart upon queſtions againſt themſelves, no
+Accuſer appearing face to face, nor friends allowed to be preſent, and thereupon committed priſoners to the Tower; do all (in a great meaſure) <hi>fore-judge them as really guilty of high
+Treaſon.</hi>
+            </p>
+            <p>All which, being proceedings directly contrary to <hi>Magna Charta,</hi> the <hi>Petition of Right,</hi> and to your <hi>Late Declarations</hi> of the 9. of <hi>Febr.</hi> 1648. and of the 17. of <hi>March</hi> 1648.
+wherein you reſolve to preſerve inviolable thoſe Fundamental Laws and Liberties concerning the Preſervation of the Lives, Properties, and Liberties of the People, with all things in<g ref="char:EOLhyphen"/>cident
+thereunto: we are enforced to believe (what this Houſe hath formerly found) that ſome eminent perſons (whoſe particular Intereſt our ſaid Friends may have oppoſed) have ſur<g ref="char:EOLhyphen"/>priſed
+this honorable Houſe, and tranſported you into ſome cauſeleſs fears of danger from thoſe our Friends, whoſe conſtant care and watchfulneſs for the ſettlement of this long waſted
+Common-wealth, and prevention of miſery and bloudſhed, hath bin ſo evident by their frequent motions and petitions to thoſe juſt ends, eſpecially, by that which was burnt by the
+common Hangman, that of <hi>Sept.</hi> 11. 1648. and their <hi>Agreement of the People;</hi> wherein are compriſed ſuch cleer Fundamentals of juſt Government, redreſs of Grievances, and con<g ref="char:EOLhyphen"/>ducements
+to general Peace and Reconcilement, as had their adviſe in any reaſonable time bin taken, we are verily perſwaded, much of that rancour, bitterneſs, and bloudſhed which hath
+befallen, had bin prevented.</p>
+            <p>And which in our apprehenſions are ſufficient <hi>Evidences</hi> againſt all <hi>ſuſpition</hi> of <hi>treaſonable practiſes,</hi> or <hi>intentions</hi> in them, and may alſo acquit them of that aſperſion of <hi>unſetled<g ref="char:EOLhyphen"/>neſs</hi>
+caſt upon them, and which we wonder did not invite a more reſpectful carriage towards them, than to fetch them out of their Beds and houſes by ſo formidable partys of Horſe and
+Foot.</p>
+            <p>And truely, if we may have leave to ſpeak our hearts in behalf of theſe our friends, who for many yeers have neither ſpared their eſtates, nor time; but frequently hazarded their lives
+in our behalf, and for the ſafety and Freedom of Parliament and People. We are perſwaded in our Conſciences, the greateſt crime, (<hi>or rather cauſe</hi>) for which they are thus moleſted is,</p>
+            <p>That they have unceſſantly endeavoured to induce the Army to the real performance of thoſe many good things, they engaged for, and largely promiſed to this Nation in their many Decla<g ref="char:EOLhyphen"/>rations,
+&amp;c. When firſt they diſputed and oppoſed the Orders of Parliament.</p>
+            <p>And for that they have endeavoured to preſerve the intereſt of the Army, to the juſt intereſt of the People; and to reduce the Military power to a real ſubordination to the Civil Autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p>For which their endeavours, we verily believe, they are hated by ſome eminent perſons of the Army, whoſe frequent diſtinct actings according to their own imediate Wills, towards this
+Honourable Houſe, in caſting out Members without Charge brought againſt them, leaving or taking in only whom they pleaſed; and ſo likewiſe in the Army. And by their prevalency
+againſt ſome particular perſons, hath made them preſume, and (we fear) reſolve, to <hi>ſacrifice the bloods and lives of theſe our dear Friends, for ſtanding betwixt their abſolute Domination,
+and the Freedom of the People.</hi>
+            </p>
+            <p>And that this may not appear to be a groundleſs ſuppoſition, be pleaſed to take notice, that our ſaid friends have bin long aſperſed by them, as Levellers, Atheiſts, Jeſuites, &amp;c. upon what
+ground, and to what end we know not, except, <hi>to prepare them to deſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruction;</hi> Threatning, <hi>That if once they caught hold of them, they ſhould not eſcape out of their hands, as they had done
+out of the hands of</hi> Hollis <hi>and</hi> Stapleton; <hi>That they have deſerved more to be fought againſt, than the moſt deſperate Enemy:</hi> Ploting and contriving in their General Councel of Offi<g ref="char:EOLhyphen"/>cers,
+to get a Law to <hi>have power to hang, or otherwiſe put to death, as they ſaw cauſe, and that,</hi> becauſe <hi>the Civil Magiſtrate could not diſpatch them faſt enough.</hi>
+            </p>
+            <p>In all which their threats and contrivances, there are many circumſtances to prove, they principally aimed at thoſe our friends: And ſo, when neither by threats nor promiſes they could pre<g ref="char:EOLhyphen"/>vaile
+with them, to deſiſt from preſerving the Freedom of the Nation, and diſcovery of their deſigns, (as was done in their <hi>Serious apprehenſions</hi> preſented to this Houſe, <hi>Febr.</hi> 26. 1648.)
+having abſolute power in the Houſe, where (contrary to the ſelf-denying Ordinanc<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) they takeup many places, (which with an Army at Command, is more than all the reſt) and having got
+enow of themſelves into their Councel of State, (contrary to their own poſitive conſent in the <hi>Agreement of the People</hi>) they catch at an opportunity, and fall upon our Friends, with
+ſuch a face of force and terror, as would have made the world believe (what ever cruelty had ſucceeded) there had bin a cauſe anſwerable to that force.</p>
+            <p>The like having not bin known, that perſons ſo viſible and reſponſible, ſhould (to the terror of their wives children, families, and neighbors) in the break of the day, be fetched out of
+their beds, forced out of their houſes, and carried away as priſoners of War, and after a days reſtraint in their Gariſon at White-hall, were carryed before the Councel of State, and there af<g ref="char:EOLhyphen"/>ter
+examination of them againſt themſelves (no accuſers appearing face to face, or friends allowed to be preſent) were about twelve of the clock at night, committed priſoners to the Tower,
+upon ſuſpition of <hi>High Treaſon.</hi> In their debates whereupon, (as we are credibly informed) Lieut. Gen. <hi>Cromwel</hi> declared in the Councel, <hi>That they muſt break this Party in pieces,</hi>
+(meaning our friends) <hi>or they would break them: That if they did not do it, they would render themſelves the moſt ſilly, low-ſpirited men in the world, to be routed by ſo contemptible and
+deſpicable a generation of men.</hi>
+            </p>
+            <p>And immediately after was publiſhed your Declaration, which reflecting upon them, as perſons <hi>ſeditious, deſtructive to the preſent Government, Mutineers, Hinderers of the relief of
+Ireland, and Continuers of Free-quarter,</hi> hath (with the reſt fore-mentioned) ſo fore-ſpoken them, that whereſoever they come to tryal, they are likely to fall under abundance of preju<g ref="char:EOLhyphen"/>dice,
+beſides the influence thoſe eminent perſons (who now viſibly appear their particular adverſaries) have upon all perſons in Office, and upon the preſent forces in being. Inſomuch as all
+things duly weighed, they are in truth really fore-judged and condemned; For what Judge or Jury may not unawares be captivated by ſo many pre-occupations and pre-poſſeſſions, or
+not be terrified, to do what ſo force-able and powerful influences ſo ſtrongly incline, if not inforce them unto?</p>
+            <p>Beſides, your Order for their tryal, requires the Atturney General, to take ſpeedy courſe for proſecution of them; which is a diſadvantage we hoped theſe times would have bin free
+from, as holding too much reſemblance with thoſe foregone, that ſought by craft and ſophiſtry to entrap and enſlave plain men in their Tryals for life, eſtate or liberty, to the wills of Princes:
+the ſaid Atturney being a Member of your Houſe, and conſequently a <hi>Judge of the Judge before whom he pleads,</hi> and (in oppoſition to our Friends,) repreſenteth no leſs than the ſupreme
+Authority; a moſt unequal proſecutor, and againſt whom they have no plea or relief, as by Law they have againſt others.</p>
+            <p>Vpon all which conſiderations, we cannot diſcern it to be equal in it ſelf, or ſafe for them, that they ſhould through ſo many prejudices and preoccupations, be by you put upon their tryal
+in the upper Bench: So that how plauſible ſoever it may ſeem in it ſelf; for you to put them upon this kind of Tryal, yet all things conſidered, nothing more evidently tendeth to their de<g ref="char:EOLhyphen"/>ſtruction:
+Nor can we diſcern how it can be juſt to try men upon a Declaration made after the fact pretended. Nor can we judge it to be reaſonable, that ſo many Members of the Army
+their proffeſſed Adverſaries, ſhould (contrary to the ſelf-denying Ordinance and Common equity it ſelf) ſit as Judges in this Honourable Houſe or in the Councel of State whilſt this
+Cauſe is debated; they having in effect bin charged by thoſe our Friends in their ſerious Apprehenſions to this Houſe: And this proceeding towards them, appearing but as a revengful
+recrimination.</p>
+            <p>And therefore, if after mature conſideration of the premiſes, you ſhall judge them worthy of further proſecution (<hi>as for our parts we verily believe there is no cauſe</hi>) we earneſtly in<g ref="char:EOLhyphen"/>treat.
+That you will make firſt ſtrict enquiry into the cauſe of that terror and force of ſouldiers uſed towards them, contrary to Law: repaire their credit; give them the benefit of law a<g ref="char:EOLhyphen"/>gainſt
+whomſoever ſhall appear to have bin authors or actors therein, and enlarge them from their preſent impriſonment in the Tower.</p>
+            <p>And then, if any perſon have whereof to accuſe them, that they be proceeded againſt (as by Law they ought) by Warrants from a Juſtice of the Peace of the Neighborhood, where the
+fact in queſtion was pretended to be committed, not granted without oath made of a crime againſt ſome Law in being before the fact; and to be ſerved by Conſtables,
+not Souldiers, And that upon appearance of the accuſers and accuſed face to face (as by Law is due) and if the fact be baylable, then to be allowed bayl; if not, to be ſe<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ured in that
+Legal priſon appointed for that place and fact, until the next ſeſſions (<hi>not in a Prerogative Priſon, as the Tower is</hi>) and then in an ordinary way (exempt from all ſuch pre-occupations
+and fore-judgings, to have the benefit of a Tryal by a Jury of twelve ſworn men of the Neighborhood (not over-awed by Souldiers, nor diſturbed by policy or ſophiſtry:)
+A Tryal which we conceive cannot in Juſtice (in any circumſtance) be denyed to the worſt of thieves, murtherers, and traytors; and which was our real Intentions in our late Petiti<g ref="char:EOLhyphen"/>on
+preſented to you concerning them. And (we are confident our Friends upon ſuch a Tryal, wil prove themſelves to be no ſuch perſons, but faithful friends to their Countries Liberties.</p>
+            <p>We alſo intreat that for the future no perſon may be cenſured, condemned, or moleſted, concerning life, limbe, liberty or eſtate, but for the breach of ſome Law firſt made and publiſhed,
+and that this Honourable Houſe, would be a Pattern to all future Parliaments in leaving the tryal of all ſuch cauſes to ſubordinate Magiſtrates, and ordinary proper Courts of Juſtice.</p>
+            <p>That the excution of Civil affaires may be wholely freed from the interpoſition of the Sword, and that Martial Law, during the times of peace (where all Courts are open) may not
+be exerciſed upon the perſons of any whomſoever: All which, are not more evidently juſt in themſelves, than they are conſonant to <hi>Magna Charta</hi> and the <hi>Petition of
+Right;</hi> the benefit whereof, we truſt you will never be induced to take from us.</p>
+            <p>That Captain <hi>Bray</hi> (now cloſe Priſoner in <hi>Windſor</hi>) may immediately be enlarged, or otherwiſe put upon a legal tryal, as is before deſired in behalf of our other Friends.</p>
+            <p>Laſtly, we intreat, that there may be ſome general encouragement from you to proceed to a ſpeedy ſettlement, by way of <hi>an Agreement of the People, upon the grounds of an equal and
+juſt Government;</hi> that ſo all diſcord, enmity, and disſatisfaction amongſt former Friends may finally receive a ſpeedy end, by and with this Parliament; and that the end of this may be the
+beginning of a new and equal Repreſentative.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
